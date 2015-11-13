@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python
 
 N = 4
 board = [[0]*N for i in range(N)]
